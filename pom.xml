@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   	<maven.compiler.source>12</maven.compiler.source>
   	<maven.compiler.target>12</maven.compiler.target>
-  	<exec.mainClass>path.to.your.MainClass</exec.mainClass>
+  	<exec.mainClass>maven2/src/main/java/PruebaMaven2/maven2</exec.mainClass>
   </properties>
     
     <dependencies>
